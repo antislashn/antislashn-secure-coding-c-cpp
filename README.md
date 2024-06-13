@@ -50,7 +50,7 @@ permet d'envoyer la chaîne de caractères générée par python vers l'entrée 
 
 ## Atelier 'Etude de la pile'
 ### Objectif
-Connaître le focntionnement de la pile
+Connaître le fonctionnement de la pile
 
 ### Todo
 A l'aide du fichier `stack.c` étudiez la pile
